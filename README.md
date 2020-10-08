@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 80: O Lepus 200 e o TVA 2052](http://dqsoft.blogspot.com/2020/09/memorias-dos-anos-80-o-lepus-200-e-o.html)
+- [Sensor de Presença (Movimento) por Infravermelho](http://dqsoft.blogspot.com/2020/10/sensor-de-presenca-movimento-por.html)
+- [Memórias dos Anos 80: O Projeto de Formatura](http://dqsoft.blogspot.com/2020/10/memorias-dos-anos-80-o-projeto-de.html)
+- [Módulo Sensor de Vibração (com sensor SW-420)](http://dqsoft.blogspot.com/2020/09/modulo-sensor-de-vibracao-com-sensor-sw.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
