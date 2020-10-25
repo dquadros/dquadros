@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jogo do Mês: Return of the Obra Dinn](http://dqsoft.blogspot.com/2020/10/jogo-do-mes-return-of-obra-dinn.html)
 - [Memórias dos Anos 80: O PC IBM](http://dqsoft.blogspot.com/2020/10/memorias-dos-anos-80-o-pc-ibm.html)
 - [Memórias dos Anos 80: O TVG4001](http://dqsoft.blogspot.com/2020/10/memorias-dos-anos-80-o-tvg4001.html)
 - [Sensor Biométrico de Impressão Digital - Parte1 - Como Identificar uma Digital](http://dqsoft.blogspot.com/2020/10/sensor-biometrico-de-impressao-digital.html)
-- [Livro do Mês: Not All Fairy Tales Have Happy Endings: The rise and fall of Sierra On-Line](http://dqsoft.blogspot.com/2020/10/livro-do-mes-not-all-fairy-tales-have.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
