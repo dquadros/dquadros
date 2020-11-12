@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 80: O Nexus 1600, parte 3 (BIOS)](http://dqsoft.blogspot.com/2020/11/memorias-dos-anos-80-o-nexus-1600-parte_12.html)
 - [Resenha: Understanding Photography - Field Guide](http://dqsoft.blogspot.com/2020/11/resenha-understanding-photography-field.html)
 - [Memórias dos Anos 80: O Nexus 1600, parte 2 (Hardware)](http://dqsoft.blogspot.com/2020/11/memorias-dos-anos-80-o-nexus-1600-parte.html)
 - [Sensor Biométrico de Impressão Digital - Parte 3: Cadastrando uma digital no FPM10A](http://dqsoft.blogspot.com/2020/11/sensor-biometrico-de-impressao-digital.html)
-- [Memórias dos Anos 80: O Nexus 1600, parte 1](http://dqsoft.blogspot.com/2020/10/memorias-dos-anos-80-o-nexus-1600-parte.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
