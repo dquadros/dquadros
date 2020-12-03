@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 80 - 286 e o PC-AT](http://dqsoft.blogspot.com/2020/12/memorias-dos-anos-80-286-e-o-pc-at.html)
 - [Quinze Anos do Blog](http://dqsoft.blogspot.com/2020/12/quinze-anos-do-blog.html)
 - [Memórias dos Anos 80 - Nexus 1600, parte 5 (consequências)](http://dqsoft.blogspot.com/2020/11/memorias-dos-anos-80-nexus-1600-parte-5.html)
 - [Memórias dos Anos 80: Nexus 1600 , parte 4 (SISNE)](http://dqsoft.blogspot.com/2020/11/memorias-dos-anos-80-nexus-1600-parte-4.html)
-- [Sensor Biométrico de Impressão Digital - Parte 4: Identificando Digitais](http://dqsoft.blogspot.com/2020/11/sensor-biometrico-de-impressao-digital_17.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
