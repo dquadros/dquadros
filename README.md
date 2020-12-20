@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Ashes of Victory (Honor Harrington #9)](http://dqsoft.blogspot.com/2020/12/critica-ashes-of-victory-honor.html)
 - [Memórias dos Anos 80: A versão 2 do SISNE](http://dqsoft.blogspot.com/2020/12/memorias-dos-anos-80-versao-2-do-sisne.html)
 - [Resenha: Daredevil (Série da Netflix)](http://dqsoft.blogspot.com/2020/12/resenha-daredevil-serie-da-netflix.html)
 - [Memórias dos Anos 80 - 286 e o PC-AT](http://dqsoft.blogspot.com/2020/12/memorias-dos-anos-80-286-e-o-pc-at.html)
-- [Quinze Anos do Blog](http://dqsoft.blogspot.com/2020/12/quinze-anos-do-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
