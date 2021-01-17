@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Robot Programming](http://dqsoft.blogspot.com/2021/01/resenha-robot-programming.html)
 - [Memórias dos Anos 80: O Software Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-o-software-z.html)
 - [Microcontrolador 8051: Introdução](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-introducao.html)
 - [Memórias dos Anos 80: A Humana Informática](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-humana-informatica.html)
-- [Sensor Biométrico de Impressão Digital - Parte 5: Pegando a Imagem da Digital e Salvando e Restaurando Templates](http://dqsoft.blogspot.com/2021/01/sensor-biometrico-de-impressao-digital.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
