@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcontrolador 8051: Arquitetura](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-arquitetura.html)
 - [Resenha: Robot Programming](http://dqsoft.blogspot.com/2021/01/resenha-robot-programming.html)
 - [Memórias dos Anos 80: O Software Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-o-software-z.html)
 - [Microcontrolador 8051: Introdução](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-introducao.html)
-- [Memórias dos Anos 80: A Humana Informática](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-humana-informatica.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
