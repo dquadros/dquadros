@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcontrolador 8051: Piscando um LED](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-piscando-um-led.html)
 - [Memórias dos Anos 80: A Evolução do Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-evolucao-do-z.html)
 - [Microcontrolador 8051: Arquitetura](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-arquitetura.html)
 - [Resenha: Robot Programming](http://dqsoft.blogspot.com/2021/01/resenha-robot-programming.html)
-- [Memórias dos Anos 80: O Software Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-o-software-z.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
