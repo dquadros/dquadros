@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcontrolador 8051: Ferramentas de Programação](http://dqsoft.blogspot.com/2021/02/microcontrolador-8051-ferramentas-de.html)
 - [Resenha: Pirate Latitudes](http://dqsoft.blogspot.com/2021/01/resenha-pirate-latitudes.html)
 - [Memórias dos Anos 80: Emulação de Terminal e Transferência de Arquivos com o Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-emulacao-de.html)
 - [Microcontrolador 8051: Piscando um LED](http://dqsoft.blogspot.com/2021/01/microcontrolador-8051-piscando-um-led.html)
-- [Memórias dos Anos 80: A Evolução do Z](http://dqsoft.blogspot.com/2021/01/memorias-dos-anos-80-evolucao-do-z.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
