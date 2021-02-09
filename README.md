@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ATmega Detonator](https://github.com/dquadros/ATmegaDetonator)
 
-- 🌱 I’m currently learning **Spring and SpringBoot (long story why)**
+- 🌱 I’m currently learning **Spring, SpringBoot and Angular (long story why)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dquadros](https://github.com/dquadros)
 
