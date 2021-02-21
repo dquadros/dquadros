@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Light - Science and Magic](http://dqsoft.blogspot.com/2021/02/resenha-light-science-and-magic.html)
 - [Memórias dos Anos 80: Emulação de Terminais IBM com o Z e Zapt](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-emulacao-de.html)
 - [Memórias dos Anos 80: Videotexto](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-videotexto.html)
 - [Microcontrolador 8051: Gravação da Flash do AT89S51](http://dqsoft.blogspot.com/2021/02/microcontrolador-8051-gravacao-da-flash.html)
-- [Memórias dos Anos 80: A Comunicação Micro-a-Micro com o Z](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-comunicacao-micro.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
