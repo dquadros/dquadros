@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcontrolador 8051: Usando um ESP32 para Gravar Firmware em um AT89S51 (parte 1)](http://dqsoft.blogspot.com/2021/02/microcontrolador-8051-usando-um-esp32.html)
 - [Resenha: Light - Science and Magic](http://dqsoft.blogspot.com/2021/02/resenha-light-science-and-magic.html)
 - [Memórias dos Anos 80: Emulação de Terminais IBM com o Z e Zapt](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-emulacao-de.html)
 - [Memórias dos Anos 80: Videotexto](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-videotexto.html)
-- [Microcontrolador 8051: Gravação da Flash do AT89S51](http://dqsoft.blogspot.com/2021/02/microcontrolador-8051-gravacao-da-flash.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
