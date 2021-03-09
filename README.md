@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Primeira Semana com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/03/a-primeira-semana-com-o-raspberry-pi.html)
 - [Memórias dos Anos 80 e 90: Evoluções do Zapt](http://dqsoft.blogspot.com/2021/03/memorias-dos-anos-80-e-90-evolucoes-do.html)
 - [Microcontrolador 8051: Usando um ESP32 para Gravar Firmware em um AT89S51 (parte 2)](http://dqsoft.blogspot.com/2021/03/microcontrolador-8051-usando-um-esp32.html)
 - [Memórias dos Anos 80: Zapt](http://dqsoft.blogspot.com/2021/02/memorias-dos-anos-80-zapt.html)
-- [Microcontrolador 8051: Usando um ESP32 para Gravar Firmware em um AT89S51 (parte 1)](http://dqsoft.blogspot.com/2021/02/microcontrolador-8051-usando-um-esp32.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
