@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [1990: O Ano em Que Nos Ferramos](http://dqsoft.blogspot.com/2021/03/1990-o-ano-em-que-nos-ferramos.html)
 - [Um ano de "quarentena"!](http://dqsoft.blogspot.com/2021/03/um-ano-de-quarentena.html)
 - [Resenha: The Old New Thing](http://dqsoft.blogspot.com/2021/03/resenha-old-new-thing.html)
 - [Memórias dos Anos 80: O incrível ano de 1989](http://dqsoft.blogspot.com/2021/03/memorias-dos-anos-80-o-incrivel-ano-de.html)
-- [A Primeira Semana com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/03/a-primeira-semana-com-o-raspberry-pi.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
