@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Robot Building for Beginners (Primeira Edição)](http://dqsoft.blogspot.com/2021/04/critica-robot-building-for-beginners.html)
 - [Microcontrolador 8051: Gravando um Firmware no AT89S51 (e o AT89S52) com o Avrdude e um Arduino](http://dqsoft.blogspot.com/2021/03/microcontrolador-8051-gravando-um.html)
 - [Crítica: Star Wars - The Clone Wars (série animada de 2008 a 2020)](http://dqsoft.blogspot.com/2021/03/critica-star-wars-clone-wars-serie.html)
 - [1990: O Ano em Que Nos Ferramos](http://dqsoft.blogspot.com/2021/03/1990-o-ano-em-que-nos-ferramos.html)
-- [Um ano de "quarentena"!](http://dqsoft.blogspot.com/2021/03/um-ano-de-quarentena.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
