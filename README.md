@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando a Raspberry Pi Pico na IDE Arduino - Suporte Oficial e Não Oficial](http://dqsoft.blogspot.com/2021/04/usando-raspberry-pi-pico-na-ide-arduino.html)
 - [Memórias dos Anos 90: Mudando de Emprego](http://dqsoft.blogspot.com/2021/04/memorias-dos-anos-90-mudando-de-emprego.html)
 - [Raspberry Pi Pico: Gerando Vídeo Composto](http://dqsoft.blogspot.com/2021/04/raspberry-pi-pico-gerando-video-composto.html)
 - [Crítica: Robot Building for Beginners (Primeira Edição)](http://dqsoft.blogspot.com/2021/04/critica-robot-building-for-beginners.html)
-- [Microcontrolador 8051: Gravando um Firmware no AT89S51 (e o AT89S52) com o Avrdude e um Arduino](http://dqsoft.blogspot.com/2021/03/microcontrolador-8051-gravando-um.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
