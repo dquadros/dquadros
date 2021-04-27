@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Pico: Gerando Vídeo VGA Colorido](http://dqsoft.blogspot.com/2021/04/raspberry-pi-pico-gerando-video-vga.html)
 - [Memórias dos Anos 90: Código de Barras II](http://dqsoft.blogspot.com/2021/04/memorias-dos-anos-90-codigo-de-barras-ii.html)
 - [Crítica: Web Development with Angular and Bootstrap](http://dqsoft.blogspot.com/2021/04/critica-web-development-with-angular.html)
 - [Memórias dos Anos 90: Código de Barras I](http://dqsoft.blogspot.com/2021/04/memorias-dos-anos-90-codigo-de-barras-i.html)
-- [Usando a Raspberry Pi Pico na IDE Arduino - Suporte Oficial e Não Oficial](http://dqsoft.blogspot.com/2021/04/usando-raspberry-pi-pico-na-ide-arduino.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
