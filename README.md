@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 90: Coletores de Dados II](http://dqsoft.blogspot.com/2021/05/memorias-dos-anos-90-coletores-de-dados_01295227920.html)
 - [Raspberry Pi Pico: Usando o PIO para Interfacear um Teclado PS/2](http://dqsoft.blogspot.com/2021/05/raspberry-pi-pico-usando-o-pio-para.html)
 - [Memórias dos Anos 90: Coletores de Dados I](http://dqsoft.blogspot.com/2021/05/memorias-dos-anos-90-coletores-de-dados.html)
 - [MicroPython ou CircuitPython?](http://dqsoft.blogspot.com/2021/05/micropython-ou-circuitpython.html)
-- [Memórias dos Anos 90: Código de Barras III](http://dqsoft.blogspot.com/2021/04/memorias-dos-anos-90-codigo-de-barras.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
