@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Calculando Pi na Plaquinha (Uno, PiPico, ESP32, BlackPill, etc)](http://dqsoft.blogspot.com/2021/06/calculando-pi-na-plaquinha-uno-pipico.html)
 - [Memórias dos Anos 90: Spectrum 24 (parte 2)](http://dqsoft.blogspot.com/2021/06/memorias-dos-anos-90-spectrum-24-parte-2.html)
 - [Sensor Ultrassônico HC-SR04 com o Raspberry Pi Pico (usando o PIO)](http://dqsoft.blogspot.com/2021/06/sensor-ultrassonico-hc-sr04-com-o.html)
 - [Memórias dos Anos 90: Spectrum 24 (parte 1)](http://dqsoft.blogspot.com/2021/05/memorias-dos-anos-90-spectrum-24-parte-1.html)
-- [Examinando um Shield Arduino com Display LCD TTF de 2,4" Sensível ao Toque - Parte 2](http://dqsoft.blogspot.com/2021/05/examinando-um-shield-arduino-com_01662371112.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
