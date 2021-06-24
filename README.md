@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 90: Um Bate-e-Volta](http://dqsoft.blogspot.com/2021/06/memorias-dos-anos-90-um-bate-e-volta.html)
 - [Crítica: O Legado de Jupiter (a finada série da Netflix)](http://dqsoft.blogspot.com/2021/06/critica-o-legado-de-jupiter-finada.html)
 - [Calculando Pi na Plaquinha (Uno, PiPico, ESP32, BlackPill, etc)](http://dqsoft.blogspot.com/2021/06/calculando-pi-na-plaquinha-uno-pipico.html)
 - [Memórias dos Anos 90: Spectrum 24 (parte 2)](http://dqsoft.blogspot.com/2021/06/memorias-dos-anos-90-spectrum-24-parte-2.html)
-- [Sensor Ultrassônico HC-SR04 com o Raspberry Pi Pico (usando o PIO)](http://dqsoft.blogspot.com/2021/06/sensor-ultrassonico-hc-sr04-com-o.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
