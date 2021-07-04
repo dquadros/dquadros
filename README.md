@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Thelonious Monk: The Life and Times of an American Original](http://dqsoft.blogspot.com/2021/07/resenha-thelonious-monk-life-and-times.html)
 - [Gravando Firmware "AT" no Módulo ESP-01 (ESP8266)](http://dqsoft.blogspot.com/2021/06/gravando-firmware-at-no-modulo-esp-01.html)
 - [Memórias dos Anos 90: Um Bate-e-Volta](http://dqsoft.blogspot.com/2021/06/memorias-dos-anos-90-um-bate-e-volta.html)
 - [Crítica: O Legado de Jupiter (a finada série da Netflix)](http://dqsoft.blogspot.com/2021/06/critica-o-legado-de-jupiter-finada.html)
-- [Calculando Pi na Plaquinha (Uno, PiPico, ESP32, BlackPill, etc)](http://dqsoft.blogspot.com/2021/06/calculando-pi-na-plaquinha-uno-pipico.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
