@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: War of Honor (Honor Harrington #10)](http://dqsoft.blogspot.com/2021/07/critica-war-of-honor-honor-harrington-10.html)
 - [Memórias dos Anos 90: Serviços Sistêmicos Profissionais](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-servicos.html)
 - [Raspberry Pi Pico: Gerando Vídeo Alfanumérico Colorido](http://dqsoft.blogspot.com/2021/07/raspberry-pi-pico-gerando-video.html)
 - [Resenha: Thelonious Monk: The Life and Times of an American Original](http://dqsoft.blogspot.com/2021/07/resenha-thelonious-monk-life-and-times.html)
-- [Gravando Firmware "AT" no Módulo ESP-01 (ESP8266)](http://dqsoft.blogspot.com/2021/06/gravando-firmware-at-no-modulo-esp-01.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
