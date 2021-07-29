@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 90: SPT-1500 e Palm](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-spt-1500-e-palm.html)
 - [Memórias dos Anos 90: Marketing de Produto](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-marketing-de.html)
 - [Projeto: Timer com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/07/projeto-timer-com-o-raspberry-pi-pico.html)
 - [Crítica: War of Honor (Honor Harrington #10)](http://dqsoft.blogspot.com/2021/07/critica-war-of-honor-honor-harrington-10.html)
-- [Memórias dos Anos 90: Serviços Sistêmicos Profissionais](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-servicos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
