@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [(Mini)Crítica: As Séries Marvel na Disney+: WandaVision, The Falcon and The Winter Soldier e Loki](http://dqsoft.blogspot.com/2021/08/minicritica-as-series-marvel-na-disney.html)
 - [Memórias dos Anos 90: SPT-1500 e Palm](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-spt-1500-e-palm.html)
 - [Memórias dos Anos 90: Marketing de Produto](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-marketing-de.html)
 - [Projeto: Timer com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/07/projeto-timer-com-o-raspberry-pi-pico.html)
-- [Crítica: War of Honor (Honor Harrington #10)](http://dqsoft.blogspot.com/2021/07/critica-war-of-honor-honor-harrington-10.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
