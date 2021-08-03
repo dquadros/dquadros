@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando Display LCD TTF de 2,4" com CircuitPython na Franzininho WiFi](http://dqsoft.blogspot.com/2021/08/usando-display-lcd-ttf-de-24-com.html)
 - [(Mini)Crítica: As Séries Marvel na Disney+: WandaVision, The Falcon and The Winter Soldier e Loki](http://dqsoft.blogspot.com/2021/08/minicritica-as-series-marvel-na-disney.html)
 - [Memórias dos Anos 90: SPT-1500 e Palm](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-spt-1500-e-palm.html)
 - [Memórias dos Anos 90: Marketing de Produto](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-marketing-de.html)
-- [Projeto: Timer com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/07/projeto-timer-com-o-raspberry-pi-pico.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
