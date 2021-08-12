@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memórias dos Anos 90: Os Primeiros Coletores Symbol com Windows CE](http://dqsoft.blogspot.com/2021/08/memorias-dos-anos-90-os-primeiros.html)
 - [Acelerômetro 3 Eixos MMA8452: Introdução e uso com um Arduino](http://dqsoft.blogspot.com/2021/08/acelerometro-3-eixos-mma8452-introducao.html)
 - [Usando Display LCD TTF de 2,4" com CircuitPython na Franzininho WiFi](http://dqsoft.blogspot.com/2021/08/usando-display-lcd-ttf-de-24-com.html)
 - [(Mini)Crítica: As Séries Marvel na Disney+: WandaVision, The Falcon and The Winter Soldier e Loki](http://dqsoft.blogspot.com/2021/08/minicritica-as-series-marvel-na-disney.html)
-- [Memórias dos Anos 90: SPT-1500 e Palm](http://dqsoft.blogspot.com/2021/07/memorias-dos-anos-90-spt-1500-e-palm.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
