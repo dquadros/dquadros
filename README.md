@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ADC (Conversor Analógico Digital) - Parte 1](http://dqsoft.blogspot.com/2021/09/adc-conversor-analogico-digital-parte-1.html)
 - [Memórias da Entrada no Terceiro Milênio](http://dqsoft.blogspot.com/2021/08/memorias-da-entrada-no-terceiro-milenio.html)
 - [Primeiras Impressões: Adafruit Feather RP2040](http://dqsoft.blogspot.com/2021/08/primeiras-impressoes-adafruit-feather.html)
 - [Acelerômetro 3 Eixos MMA8452: Um Módulo MicroPython para Usar com o Raspberry Pi Pico](http://dqsoft.blogspot.com/2021/08/acelerometro-3-eixos-mma8452-um-modulo.html)
-- [Memórias dos Anos 90: Os Primeiros Coletores Symbol com Windows CE](http://dqsoft.blogspot.com/2021/08/memorias-dos-anos-90-os-primeiros.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
