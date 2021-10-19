@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ADC (Conversor Analógico Digital) - Parte 4 - MSP430F2013](http://dqsoft.blogspot.com/2021/10/adc-conversor-analogico-digital-parte-4_01068982105.html)
 - [ADC (Conversor Analógico Digital) - Parte 4 - ATmega328](http://dqsoft.blogspot.com/2021/10/adc-conversor-analogico-digital-parte-4.html)
 - [Memórias dos Anos 2000: A Unidade de Negócios de Software](http://dqsoft.blogspot.com/2021/10/memorias-dos-anos-2000-unidade-de.html)
 - [ADC (Conversor Analógico Digital) - Parte 3 - Sigma Delta](http://dqsoft.blogspot.com/2021/10/adc-conversor-analogico-digital-parte-3.html)
-- [ADC (Conversor Analógico Digital) - Parte 2 - Aproximação Sucessiva](http://dqsoft.blogspot.com/2021/09/adc-conversor-analogico-digital-parte-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
