@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Franzininho DIY: Detector de Proximidade](http://dqsoft.blogspot.com/2021/11/franzininho-diy-detector-de-proximidade.html)
 - [ADC &lpar;Conversor Analógico Digital&rpar; - Parte 7 - RP2040](http://dqsoft.blogspot.com/2021/11/adc-conversor-analogico-digital-parte-7.html)
 - [ADC &lpar;Conversor Analógico Digital&rpar; - Parte 6 - ESP32](http://dqsoft.blogspot.com/2021/11/adc-conversor-analogico-digital-parte-6.html)
 - [Resenha: A Trilogia Thrawn &lpar;Star Wars&rpar;](http://dqsoft.blogspot.com/2021/10/resenha-trilogia-thrawn-star-wars.html)
-- [ADC &lpar;Conversor Analógico Digital&rpar; - Parte 5 - MSP430F2013](http://dqsoft.blogspot.com/2021/10/adc-conversor-analogico-digital-parte-4_01068982105.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
