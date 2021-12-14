@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruminações sobre o &quot;log4Shell&quot; &lpar;CVE-2021-44228&rpar;](http://dqsoft.blogspot.com/2021/12/ruminacoes-sobre-o-log4shell-cve-2021.html)
 - [&lpar;Mini&rpar; Avaliação: Raspberry Pi zero 2 W](http://dqsoft.blogspot.com/2021/12/mini-avaliacao-raspberry-pi-zero-2-w.html)
 - [Dezesseis Anos do Blog](http://dqsoft.blogspot.com/2021/12/dezesseis-anos-do-blog.html)
 - [Avaliação: Robocore Vespa](http://dqsoft.blogspot.com/2021/11/avaliacao-robocore-vespa.html)
-- [ADC &lpar;Conversor Analógico Digital&rpar; - Parte 8 - ADS1115](http://dqsoft.blogspot.com/2021/11/adc-conversor-analogico-digital-parte-8.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
