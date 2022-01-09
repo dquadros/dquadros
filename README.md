@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Sid Meier&#39;s Memoir!](http://dqsoft.blogspot.com/2022/01/critica-sid-meiers-memoir.html)
 - [Resoluções de Ano Novo - Edição 2022](http://dqsoft.blogspot.com/2022/01/resolucoes-de-ano-novo-edicao-2022.html)
 - [Ruminações sobre o &quot;log4Shell&quot; &lpar;CVE-2021-44228&rpar;](http://dqsoft.blogspot.com/2021/12/ruminacoes-sobre-o-log4shell-cve-2021.html)
 - [&lpar;Mini&rpar; Avaliação: Raspberry Pi zero 2 W](http://dqsoft.blogspot.com/2021/12/mini-avaliacao-raspberry-pi-zero-2-w.html)
-- [Dezesseis Anos do Blog](http://dqsoft.blogspot.com/2021/12/dezesseis-anos-do-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
