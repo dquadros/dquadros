@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: The Book of Boba Fett &lpar;primeira temporada&rpar;](http://dqsoft.blogspot.com/2022/02/critica-book-of-boba-fett-primeira.html)
 - [Mini Avaliações: Waveshare RP2040 Zero e Seeed XIAO RP2040](http://dqsoft.blogspot.com/2022/02/mini-avaliacoes-waveshare-rp2040-zero-e.html)
 - [Entrada Digital no RP2040 &lpar;Raspberry Pi Pico&rpar;](http://dqsoft.blogspot.com/2022/01/entrada-digital-no-rp2040-raspberry-pi.html)
 - [Saída Digital no RP2040 &lpar;Raspberry Pi Pico&rpar;](http://dqsoft.blogspot.com/2022/01/saida-digital-no-rp2040-raspberry-pi.html)
-- [Crítica: Sid Meier&#39;s Memoir!](http://dqsoft.blogspot.com/2022/01/critica-sid-meiers-memoir.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
