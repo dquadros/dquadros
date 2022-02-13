@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniel Quadros</h1>
 <h3 align="center">An old-timer developer from Brazil</h3>
 
-- 🔭 I’m currently working on [ATmega Detonator](https://github.com/dquadros/ATmegaDetonator)
+- 🔭 I’m currently working on [picoterm](https://github.com/dquadros/picoterm)
 
 - 🌱 I’m currently learning **Spring, SpringBoot and Angular (long story why)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dquadros](https://github.com/dquadros)
 
 - 📝 I regulary write articles on [https://dqsoft.blogspot.com](https://dqsoft.blogspot.com)
+
+- 🎬 I pubish videos at [my YouTube channel](https://www.youtube.com/c/DanielQuadros)
 
 - 📫 How to reach me **dqsoft.blogspot@gmail.com**
 
