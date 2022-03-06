@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: The Man in the High Castle](http://dqsoft.blogspot.com/2022/03/critica-man-in-high-castle.html)
 - [Raspberry Pi Pico:  O Incrível PicoVGA](http://dqsoft.blogspot.com/2022/03/raspberry-pi-pico-o-incrivel-picovga.html)
 - [Raspberry Pi Pico: Retomando à Geração de Vídeo Alfanumérico](http://dqsoft.blogspot.com/2022/02/raspberry-pi-pico-retomando-geracao-de.html)
 - [Crítica: The Book of Boba Fett &lpar;primeira temporada&rpar;](http://dqsoft.blogspot.com/2022/02/critica-book-of-boba-fett-primeira.html)
-- [Mini Avaliações: Waveshare RP2040 Zero e Seeed XIAO RP2040](http://dqsoft.blogspot.com/2022/02/mini-avaliacoes-waveshare-rp2040-zero-e.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
