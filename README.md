@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dois anos de &quot;quarentena&quot;...](http://dqsoft.blogspot.com/2022/03/dois-anos-de-quarentena.html)
 - [Comandando LEDs RGB &quot;endereçáveis&quot; com a PIO do Raspberry Pi Pico - Detalhes Sobre as Temporizações](http://dqsoft.blogspot.com/2022/03/comandando-leds-rgb-enderecaveis-com.html)
 - [Crítica: The Man in the High Castle](http://dqsoft.blogspot.com/2022/03/critica-man-in-high-castle.html)
 - [Raspberry Pi Pico:  O Incrível PicoVGA](http://dqsoft.blogspot.com/2022/03/raspberry-pi-pico-o-incrivel-picovga.html)
-- [Raspberry Pi Pico: Retomando à Geração de Vídeo Alfanumérico](http://dqsoft.blogspot.com/2022/02/raspberry-pi-pico-retomando-geracao-de.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
