@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Piscando LED com um Microprocessador 6809](http://dqsoft.blogspot.com/2022/03/piscando-led-com-um-microprocessador.html)
 - [Dois anos de &quot;quarentena&quot;...](http://dqsoft.blogspot.com/2022/03/dois-anos-de-quarentena.html)
 - [Comandando LEDs RGB &quot;endereçáveis&quot; com a PIO do Raspberry Pi Pico - Detalhes Sobre as Temporizações](http://dqsoft.blogspot.com/2022/03/comandando-leds-rgb-enderecaveis-com.html)
 - [Crítica: The Man in the High Castle](http://dqsoft.blogspot.com/2022/03/critica-man-in-high-castle.html)
-- [Raspberry Pi Pico:  O Incrível PicoVGA](http://dqsoft.blogspot.com/2022/03/raspberry-pi-pico-o-incrivel-picovga.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
