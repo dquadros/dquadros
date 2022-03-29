@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microprocessador Motorola 6809P, 68B09CP, 6809E ou 68B09E?](http://dqsoft.blogspot.com/2022/03/microprocessador-motorola-6809p-68b09cp.html)
 - [Memórias: Encerrando uma fase em 2002](http://dqsoft.blogspot.com/2022/03/memorias-encerrando-uma-fase-em-2002.html)
 - [Experiências com o Modo Texto do PicoVGA](http://dqsoft.blogspot.com/2022/03/experiencias-com-o-modo-texto-do-picovga.html)
 - [Piscando LED com um Microprocessador 6809](http://dqsoft.blogspot.com/2022/03/piscando-led-com-um-microprocessador.html)
-- [Dois anos de &quot;quarentena&quot;...](http://dqsoft.blogspot.com/2022/03/dois-anos-de-quarentena.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
