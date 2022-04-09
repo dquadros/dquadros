@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Quadros</h1>
 <h3 align="center">An old-timer developer from Brazil</h3>
 
-- 🔭 I’m currently working on [picoterm](https://github.com/dquadros/picoterm)
+- 🔭 I’m currently working on [RPTerm](https://github.com/dquadros/RPTerm)
 
 - 🌱 I’m currently learning **Spring, SpringBoot and Angular (long story why)**
 
