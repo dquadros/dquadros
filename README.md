@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruminações Sobre Retrocomputação](http://dqsoft.blogspot.com/2022/04/ruminacoes-sobre-retrocomputacao.html)
 - [Acessando um SD Card com o RP2040: Parte 1](http://dqsoft.blogspot.com/2022/04/acessando-um-sd-card-com-o-rp2040-parte.html)
 - [Memórias: Voltando à Eletrônica e Aprendendo sobre Microcontroladores](http://dqsoft.blogspot.com/2022/04/memorias-voltando-eletronica-e.html)
 - [Mais Experiências com o Modo Texto do PicoVGA - Nasce o RPTerm](http://dqsoft.blogspot.com/2022/04/mais-experiencias-com-o-modo-texto-do.html)
-- [Resenha: Fluent Python](http://dqsoft.blogspot.com/2022/04/resenha-fluent-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
