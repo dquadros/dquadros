@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jogo do Mês: Braveland Pirate](http://dqsoft.blogspot.com/2022/05/jogo-do-mes-braveland-pirate.html)
 - [Computador Baseado no 6809](http://dqsoft.blogspot.com/2022/05/computador-baseado-no-6809.html)
 - [Acessando um SD Card com o RP2040: Parte 3](http://dqsoft.blogspot.com/2022/05/acessando-um-sd-card-com-o-rp2040-parte.html)
 - [Acessando um SD Card com o RP2040: Parte 2](http://dqsoft.blogspot.com/2022/04/acessando-um-sd-card-com-o-rp2040-parte_01991832982.html)
-- [Ruminações Sobre Retrocomputação](http://dqsoft.blogspot.com/2022/04/ruminacoes-sobre-retrocomputacao.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
