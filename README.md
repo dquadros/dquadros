@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Uma Briga Feia com o BMP280](http://dqsoft.blogspot.com/2022/05/uma-briga-feia-com-o-bmp280.html)
 - [Sensor de Pressão e Temperatura BMP280](http://dqsoft.blogspot.com/2022/05/sensor-de-pressao-e-temperatura-bmp280.html)
 - [Jogo do Mês: Braveland Pirate](http://dqsoft.blogspot.com/2022/05/jogo-do-mes-braveland-pirate.html)
 - [Computador Baseado no 6809](http://dqsoft.blogspot.com/2022/05/computador-baseado-no-6809.html)
-- [Acessando um SD Card com o RP2040: Parte 3](http://dqsoft.blogspot.com/2022/05/acessando-um-sd-card-com-o-rp2040-parte.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
