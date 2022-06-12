@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Darth Plagueis](http://dqsoft.blogspot.com/2022/06/resenha-darth-plagueis.html)
 - [Usando o Sensor BMP280 com a Raspberry Pi Pico](http://dqsoft.blogspot.com/2022/06/usando-o-sensor-bmp280-com-raspberry-pi.html)
 - [Critica: Travellers &lpar;série na Netflix&rpar;](http://dqsoft.blogspot.com/2022/06/critica-travellers-serie-na-netflix.html)
 - [Uma Briga Feia com o BMP280](http://dqsoft.blogspot.com/2022/05/uma-briga-feia-com-o-bmp280.html)
-- [Sensor de Pressão e Temperatura BMP280](http://dqsoft.blogspot.com/2022/05/sensor-de-pressao-e-temperatura-bmp280.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
