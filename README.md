@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: USB Complete &lpar;4a edição&rpar;](http://dqsoft.blogspot.com/2022/07/resenha-usb-complete-4a-edicao.html)
 - [Meu Novo Livro: Knowing the RP2040 - A Guide For Programmers](http://dqsoft.blogspot.com/2022/06/meu-novo-livro-knowing-rp2040-guide-for.html)
 - [Crítica: Perry Mason &lpar;Série da HBO, Temporada 1&rpar;](http://dqsoft.blogspot.com/2022/06/critica-perry-mason-serie-da-hbo.html)
 - [Resenha: Darth Plagueis](http://dqsoft.blogspot.com/2022/06/resenha-darth-plagueis.html)
-- [Usando o Sensor BMP280 com a Raspberry Pi Pico](http://dqsoft.blogspot.com/2022/06/usando-o-sensor-bmp280-com-raspberry-pi.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
