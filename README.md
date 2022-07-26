@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Quadros</h1>
 <h3 align="center">An old-timer developer from Brazil</h3>
 
-- 🔭 I’m currently working on [RPTerm](https://github.com/dquadros/RPTerm) and [Knowing the RP2040]([https://github.com/dquadros/RPTerm](https://github.com/dquadros/KnowingRP2040))
+- 🔭 I’m currently working on [RPTerm](https://github.com/dquadros/RPTerm) and [Knowing the RP2040](https://github.com/dquadros/KnowingRP2040)
 
 - 🌱 I’m currently learning more about **USB**
 
