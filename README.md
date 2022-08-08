@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Livro de Julho: Effective Software Testing](http://dqsoft.blogspot.com/2022/08/livro-de-julho-effective-software.html)
+- [Crítica: Mickey Mouse vol 12 - The Mysterious Dr &quot;X&quot;](http://dqsoft.blogspot.com/2022/07/critica-mickey-mouse-vol-12-mysterious.html)
+- [Mini Avaliação: LILYGO T-PicoC3](http://dqsoft.blogspot.com/2022/07/mini-avaliacao-lilygo-t-picoc3.html)
 - [A Raspberry Pi Pico W](http://dqsoft.blogspot.com/2022/07/a-raspberry-pi-pico-w.html)
-- [Resenha: USB Complete &lpar;4a edição&rpar;](http://dqsoft.blogspot.com/2022/07/resenha-usb-complete-4a-edicao.html)
-- [Meu Novo Livro: Knowing the RP2040 - A Guide For Programmers](http://dqsoft.blogspot.com/2022/06/meu-novo-livro-knowing-rp2040-guide-for.html)
-- [Crítica: Perry Mason &lpar;Série da HBO, Temporada 1&rpar;](http://dqsoft.blogspot.com/2022/06/critica-perry-mason-serie-da-hbo.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
