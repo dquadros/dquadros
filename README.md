@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 2&rpar;](http://dqsoft.blogspot.com/2022/09/usando-o-wifi-da-raspberry-pi-pico-w.html)
 - [Mini Avaliação: Um Clone Chinês da Raspberry Pi Pico](http://dqsoft.blogspot.com/2022/09/mini-avaliacao-um-clone-chines-da.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 1&rpar;](http://dqsoft.blogspot.com/2022/08/usando-o-wifi-da-raspberry-pi-pico-w.html)
 - [Livro de Julho: Effective Software Testing](http://dqsoft.blogspot.com/2022/08/livro-de-julho-effective-software.html)
-- [Crítica: Mickey Mouse vol 12 - The Mysterious Dr &quot;X&quot;](http://dqsoft.blogspot.com/2022/07/critica-mickey-mouse-vol-12-mysterious.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
