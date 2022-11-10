@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 5&rpar;](http://dqsoft.blogspot.com/2022/11/usando-o-wifi-da-raspberry-pi-pico-w.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 4&rpar;](http://dqsoft.blogspot.com/2022/10/usando-o-wifi-da-raspberry-pi-pico-w_13.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 3&rpar;](http://dqsoft.blogspot.com/2022/10/usando-o-wifi-da-raspberry-pi-pico-w.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 2&rpar;](http://dqsoft.blogspot.com/2022/09/usando-o-wifi-da-raspberry-pi-pico-w.html)
-- [Mini Avaliação: Um Clone Chinês da Raspberry Pi Pico](http://dqsoft.blogspot.com/2022/09/mini-avaliacao-um-clone-chines-da.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
