@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Display LCD Circular](http://dqsoft.blogspot.com/2022/11/display-lcd-circular.html)
 - [Crítica: The Soul of A New Machine](http://dqsoft.blogspot.com/2022/11/critica-soul-of-new-machine.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 5&rpar;](http://dqsoft.blogspot.com/2022/11/usando-o-wifi-da-raspberry-pi-pico-w.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 4&rpar;](http://dqsoft.blogspot.com/2022/10/usando-o-wifi-da-raspberry-pi-pico-w_13.html)
-- [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 3&rpar;](http://dqsoft.blogspot.com/2022/10/usando-o-wifi-da-raspberry-pi-pico-w.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
