@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: The Lincoln Lawyer &lpar;Série e Livro&rpar;](http://dqsoft.blogspot.com/2022/11/resenha-lincoln-lawyer-serie-e-livro.html)
 - [Display LCD Circular](http://dqsoft.blogspot.com/2022/11/display-lcd-circular.html)
 - [Crítica: The Soul of A New Machine](http://dqsoft.blogspot.com/2022/11/critica-soul-of-new-machine.html)
 - [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 5&rpar;](http://dqsoft.blogspot.com/2022/11/usando-o-wifi-da-raspberry-pi-pico-w.html)
-- [Usando o WiFi da Raspberry Pi PIco W &lpar;Parte 4&rpar;](http://dqsoft.blogspot.com/2022/10/usando-o-wifi-da-raspberry-pi-pico-w_13.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
