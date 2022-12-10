@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2023](http://dqsoft.blogspot.com/2022/12/a-grande-lista-de-ideias-de-projetos.html)
+- [Resenha: Moving Pictures](http://dqsoft.blogspot.com/2022/12/resenha-moving-pictures.html)
+- [Dezessete Anos do Blog](http://dqsoft.blogspot.com/2022/12/dezessete-anos-do-blog.html)
 - [Crítica: Andor &lpar;1a Temporada&rpar;](http://dqsoft.blogspot.com/2022/11/critica-andor-1a-temporada.html)
-- [Resenha: The Lincoln Lawyer &lpar;Série e Livro&rpar;](http://dqsoft.blogspot.com/2022/11/resenha-lincoln-lawyer-serie-e-livro.html)
-- [Display LCD Circular](http://dqsoft.blogspot.com/2022/11/display-lcd-circular.html)
-- [Crítica: The Soul of A New Machine](http://dqsoft.blogspot.com/2022/11/critica-soul-of-new-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
