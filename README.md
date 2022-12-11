@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Living in the Light](http://dqsoft.blogspot.com/2022/12/critica-living-in-light.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2023](http://dqsoft.blogspot.com/2022/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Resenha: Moving Pictures](http://dqsoft.blogspot.com/2022/12/resenha-moving-pictures.html)
 - [Dezessete Anos do Blog](http://dqsoft.blogspot.com/2022/12/dezessete-anos-do-blog.html)
-- [Crítica: Andor &lpar;1a Temporada&rpar;](http://dqsoft.blogspot.com/2022/11/critica-andor-1a-temporada.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
