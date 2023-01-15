@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: The Man in the High Castlle &lpar;o livro&rpar;](http://dqsoft.blogspot.com/2023/01/critica-man-in-high-castlle-o-livro.html)
 - [Resoluções de Ano Novo - Edição 2023](http://dqsoft.blogspot.com/2023/01/resolucoes-de-ano-novo-edicao-2023.html)
 - [Crítica: Living in the Light](http://dqsoft.blogspot.com/2022/12/critica-living-in-light.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2023](http://dqsoft.blogspot.com/2022/12/a-grande-lista-de-ideias-de-projetos.html)
-- [Resenha: Moving Pictures](http://dqsoft.blogspot.com/2022/12/resenha-moving-pictures.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
