@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Atualização - O Que Vem Pela Frente](http://dqsoft.blogspot.com/2023/01/atualizacao-o-que-vem-pela-frente.html)
 - [Nina &lpar;2012 - 2023&rpar;](http://dqsoft.blogspot.com/2023/01/nina-2012-2023.html)
 - [Crítica: The Man in the High Castlle &lpar;o livro&rpar;](http://dqsoft.blogspot.com/2023/01/critica-man-in-high-castlle-o-livro.html)
 - [Resoluções de Ano Novo - Edição 2023](http://dqsoft.blogspot.com/2023/01/resolucoes-de-ano-novo-edicao-2023.html)
-- [Crítica: Living in the Light](http://dqsoft.blogspot.com/2022/12/critica-living-in-light.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
