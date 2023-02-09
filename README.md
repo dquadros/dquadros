@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Examinando um Display e-paper - Parte 2](http://dqsoft.blogspot.com/2023/02/examinando-um-display-e-paper-parte-2.html)
 - [Examinando um Display e-paper - Parte 1](http://dqsoft.blogspot.com/2023/01/examinando-um-display-e-paper-parte-1.html)
 - [Crítica: Eyes Wide Open - True Tales of a Wishbone Ash Warrior](http://dqsoft.blogspot.com/2023/01/critica-eyes-wide-open-true-tales-of.html)
 - [Atualização - O Que Vem Pela Frente](http://dqsoft.blogspot.com/2023/01/atualizacao-o-que-vem-pela-frente.html)
-- [Nina &lpar;2012 - 2023&rpar;](http://dqsoft.blogspot.com/2023/01/nina-2012-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
