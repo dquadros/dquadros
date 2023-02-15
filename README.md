@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Examinando um Display e-paper - Parte 3](http://dqsoft.blogspot.com/2023/02/examinando-um-display-e-paper-parte-3.html)
 - [O Suporte a Bluetooth na Pico W Chegou &lpar;e muito mais&rpar;](http://dqsoft.blogspot.com/2023/02/o-suporte-bluetooth-na-pico-w-chegou-e.html)
 - [Examinando um Display e-paper - Parte 2](http://dqsoft.blogspot.com/2023/02/examinando-um-display-e-paper-parte-2.html)
 - [Examinando um Display e-paper - Parte 1](http://dqsoft.blogspot.com/2023/01/examinando-um-display-e-paper-parte-1.html)
-- [Crítica: Eyes Wide Open - True Tales of a Wishbone Ash Warrior](http://dqsoft.blogspot.com/2023/01/critica-eyes-wide-open-true-tales-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
