@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Examinando um Display e-paper - Parte 4](http://dqsoft.blogspot.com/2023/03/examinando-um-display-e-paper-parte-4.html)
 - [Mini Avaliação: Banana Pi BPI-PicoW-S3, uma placa no formato da Raspberry Pi Pico com microcontrolador ESP32-S3](http://dqsoft.blogspot.com/2023/03/mini-avaliacao-banana-pi-bpi-picow-s3.html)
 - [Atualização - O meu Calendário de Postagens](http://dqsoft.blogspot.com/2023/02/atualizacao-o-meu-calendario-de.html)
 - [Raspberry Pi Debug Probe](http://dqsoft.blogspot.com/2023/02/raspberry-pi-debug-probe.html)
-- [Examinando um Display e-paper - Parte 3](http://dqsoft.blogspot.com/2023/02/examinando-um-display-e-paper-parte-3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
