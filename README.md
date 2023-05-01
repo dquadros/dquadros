@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Novo Livro: &quot;Usando Sensores com a Raspberry Pi Pico&quot;](http://dqsoft.blogspot.com/2023/05/novo-livro-usando-sensores-com.html)
 - [Crítica: The Mandalorian - Terceira Temporada &lpar;com spoilers&rpar;](http://dqsoft.blogspot.com/2023/04/critica-mandalorian-terceira-temporada.html)
 - [Mini Avaliação: LILYGO T8-C3](http://dqsoft.blogspot.com/2023/04/mini-avaliacao-lilygo-t8-c3.html)
 - [Resenha: Supergirl: Woman of Tomorrow](http://dqsoft.blogspot.com/2023/04/resenha-supergirl-woman-of-tomorrow.html)
-- [Arduino Giga e Arduino Uno R4: As Nova Placas Oficias da Arduino](http://dqsoft.blogspot.com/2023/04/arduino-giga-e-arduino-uno-r4-as-nova.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
