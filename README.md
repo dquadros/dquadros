@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adaptação Vídeo Composto para o TK-82C](http://dqsoft.blogspot.com/2023/05/adaptacao-video-composto-para-o-tk-82c.html)
 - [Novo Livro: &quot;Usando Sensores com a Raspberry Pi Pico&quot;](http://dqsoft.blogspot.com/2023/05/novo-livro-usando-sensores-com.html)
 - [Crítica: The Mandalorian - Terceira Temporada &lpar;com spoilers&rpar;](http://dqsoft.blogspot.com/2023/04/critica-mandalorian-terceira-temporada.html)
 - [Mini Avaliação: LILYGO T8-C3](http://dqsoft.blogspot.com/2023/04/mini-avaliacao-lilygo-t8-c3.html)
-- [Resenha: Supergirl: Woman of Tomorrow](http://dqsoft.blogspot.com/2023/04/resenha-supergirl-woman-of-tomorrow.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
