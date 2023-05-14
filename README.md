@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jogo do Mês: DOOM II Master Levels](http://dqsoft.blogspot.com/2023/05/jogo-do-mes-doom-ii-master-levels.html)
 - [Mini Avaliação: Banana Pi BPI-M2 Zero](http://dqsoft.blogspot.com/2023/05/mini-avaliacao-banana-pi-bpi-m2-zero.html)
 - [Resenha: Nightmare in Pink](http://dqsoft.blogspot.com/2023/05/resenha-nightmare-in-pink.html)
 - [Adaptação Vídeo Composto para o TK-82C](http://dqsoft.blogspot.com/2023/05/adaptacao-video-composto-para-o-tk-82c.html)
-- [Novo Livro: &quot;Usando Sensores com a Raspberry Pi Pico&quot;](http://dqsoft.blogspot.com/2023/05/novo-livro-usando-sensores-com.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
