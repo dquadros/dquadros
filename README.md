@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Testador de Sensor de Temperatura DS18B20](http://dqsoft.blogspot.com/2023/06/testador-de-sensor-de-temperatura.html)
 - [O Microcontrolador RISC-V de US$0,10 - Parte 1](http://dqsoft.blogspot.com/2023/06/o-microcontrolador-risc-v-de-us010.html)
 - [Jogo do Mês: DOOM II Master Levels](http://dqsoft.blogspot.com/2023/05/jogo-do-mes-doom-ii-master-levels.html)
 - [Mini Avaliação: Banana Pi BPI-M2 Zero](http://dqsoft.blogspot.com/2023/05/mini-avaliacao-banana-pi-bpi-m2-zero.html)
-- [Resenha: Nightmare in Pink](http://dqsoft.blogspot.com/2023/05/resenha-nightmare-in-pink.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
