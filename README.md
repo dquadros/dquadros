@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Labirinto Verde &lpar;série disponível na Netflix&rpar;](http://dqsoft.blogspot.com/2023/06/resenha-labirinto-verde-serie.html)
 - [O Microcontrolador RISC-V de US$0,10 - Parte 2](http://dqsoft.blogspot.com/2023/06/o-microcontrolador-risc-v-de-us010_01547882599.html)
 - [Crítica: Marvel Masterworks: The Fantastic Four, Vol. 10](http://dqsoft.blogspot.com/2023/06/critica-marvel-masterworks-fantastic.html)
 - [Testador de Sensor de Temperatura DS18B20](http://dqsoft.blogspot.com/2023/06/testador-de-sensor-de-temperatura.html)
-- [O Microcontrolador RISC-V de US$0,10 - Parte 1](http://dqsoft.blogspot.com/2023/06/o-microcontrolador-risc-v-de-us010.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
