@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Manipulated](http://dqsoft.blogspot.com/2023/07/resenha-manipulated.html)
 - [Mini Review: Placa nano CH32V003 &lpar;Microcontrolador RISC-V de US$0,10 - Parte 3&rpar;](http://dqsoft.blogspot.com/2023/07/mini-review-placa-nano-ch32v003.html)
 - [Mini Avaliação: XIAO ESP32-S3](http://dqsoft.blogspot.com/2023/06/mini-avaliacao-xiao-esp32-s3.html)
 - [Resenha: Labirinto Verde &lpar;série disponível na Netflix&rpar;](http://dqsoft.blogspot.com/2023/06/resenha-labirinto-verde-serie.html)
-- [O Microcontrolador RISC-V de US$0,10 - Parte 2](http://dqsoft.blogspot.com/2023/06/o-microcontrolador-risc-v-de-us010_01547882599.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
