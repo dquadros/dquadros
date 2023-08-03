@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Análise: Arduino Uno R4 WiFi](http://dqsoft.blogspot.com/2023/08/analise-arduino-uno-r4-wifi.html)
 - [Análise: Arduino Uno R4 Minima](http://dqsoft.blogspot.com/2023/08/analise-arduino-uno-r4-minima.html)
 - [Resenha: Secret Invasion](http://dqsoft.blogspot.com/2023/07/resenha-secret-invasion.html)
 - [Resenha: Manipulated](http://dqsoft.blogspot.com/2023/07/resenha-manipulated.html)
-- [Mini Review: Placa nano CH32V003 &lpar;Microcontrolador RISC-V de US$0,10 - Parte 3&rpar;](http://dqsoft.blogspot.com/2023/07/mini-review-placa-nano-ch32v003.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
