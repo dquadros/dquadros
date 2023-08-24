@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini Review:  WeAct STM32G431 Core Board](http://dqsoft.blogspot.com/2023/08/mini-review-weact-stm32g431-core-board.html)
 - [Mini Review: ESP32-C3Fx4 Wireless Core Board](http://dqsoft.blogspot.com/2023/08/mini-review-esp32-c3fx4-wireless-core.html)
 - [Análise: Arduino Uno R4 WiFi](http://dqsoft.blogspot.com/2023/08/analise-arduino-uno-r4-wifi.html)
 - [Análise: Arduino Uno R4 Minima](http://dqsoft.blogspot.com/2023/08/analise-arduino-uno-r4-minima.html)
-- [Resenha: Secret Invasion](http://dqsoft.blogspot.com/2023/07/resenha-secret-invasion.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
