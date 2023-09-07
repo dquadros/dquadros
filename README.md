@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Usando Sensores com a Raspberry Pi Pico&quot; Concluído!](http://dqsoft.blogspot.com/2023/09/usando-sensores-com-raspberry-pi-pico.html)
 - [Mini Review: WeAct ESP32-C6-A Core Board](http://dqsoft.blogspot.com/2023/09/mini-review-weact-esp32-c6-core-board.html)
 - [Crítica: Ahsoka, Episódios 1 e 2](http://dqsoft.blogspot.com/2023/08/critica-ahsoka-episodios-1-e-2.html)
 - [Mini Review:  WeAct STM32G431 Core Board](http://dqsoft.blogspot.com/2023/08/mini-review-weact-stm32g431-core-board.html)
-- [Mini Review: ESP32-C3Fx4 Wireless Core Board](http://dqsoft.blogspot.com/2023/08/mini-review-esp32-c3fx4-wireless-core.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
