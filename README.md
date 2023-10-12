@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Projeto Concluído: Amplificador Bluetooth](http://dqsoft.blogspot.com/2023/10/projeto-concluido-amplificador-bluetooth.html)
 - [Ruminações sobre a Raspberry Pi 5](http://dqsoft.blogspot.com/2023/10/ruminacoes-sobre-raspberry-pi-5.html)
 - [Kit M8031TL da Bit9 - Parte 1](http://dqsoft.blogspot.com/2023/09/kit-m8031tl-da-bit9-parte-1.html)
 - [Resenha: Making Embedded Systems: Design Patterns for Great Software](http://dqsoft.blogspot.com/2023/09/resenha-making-embedded-systems-design.html)
-- [Crítica: Injustice: Gods Among Us: Year 1 to 5 &lpar;The Complete Collection&rpar;](http://dqsoft.blogspot.com/2023/09/critica-injustice-gods-among-us-year-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
