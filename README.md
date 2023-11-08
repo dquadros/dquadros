@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Quadros</h1>
 <h3 align="center">An old-timer developer from Brazil</h3>
 
-- 🔭 I’m currently working on [RPTerm](https://github.com/dquadros/RPTerm) and [Using Sensors With the Raspberry Pi Pico](https://leanpub.com/picosensors)
+- 🔭 I’m currently working on a [FTP based programmer for AT89S5x microcontrollers](https://github.com/dquadros/Grv51FTP)
 
 - 🌱 I’m currently learning more about **RISC-V**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dquadros](https://github.com/dquadros)
 
-- 📔 Check out my book [Knowing the RP2040](https://github.com/dquadros/KnowingRP2040)
+- 📔 Check out my books [Knowing the RP2040](https://github.com/dquadros/KnowingRP2040) and [Using Sensors With the Raspberry Pi Pico](https://leanpub.com/picosensors)
 
 - 📝 I regulary write articles on [https://dqsoft.blogspot.com](https://dqsoft.blogspot.com) and [https://raspico.blogspot.com/](https://raspico.blogspot.com/)
 
