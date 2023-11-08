@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini Review: Franzininho C0](http://dqsoft.blogspot.com/2023/11/mini-review-franzininho-c0.html)
 - [Kit M8031TL da Bit9 - Parte 2 - Gravador via FTP](http://dqsoft.blogspot.com/2023/11/kit-m8031tl-da-bit9-parte-2-gravador.html)
 - [Projeto Concluído: Amplificador Bluetooth](http://dqsoft.blogspot.com/2023/10/projeto-concluido-amplificador-bluetooth.html)
 - [Ruminações sobre a Raspberry Pi 5](http://dqsoft.blogspot.com/2023/10/ruminacoes-sobre-raspberry-pi-5.html)
-- [Kit M8031TL da Bit9 - Parte 1](http://dqsoft.blogspot.com/2023/09/kit-m8031tl-da-bit9-parte-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
