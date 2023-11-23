@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mini Avaliação: M5 Stamp S3](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-m5-stamp-s3.html)
 - [Kit M8031TL da Bit9 - Parte 3 - Gravador via FTP Funcionando](http://dqsoft.blogspot.com/2023/11/kit-m8031tl-da-bit9-parte-3-gravador.html)
 - [Crítica: Star Wars Resistance](http://dqsoft.blogspot.com/2023/11/critica-star-wars-resistance.html)
 - [Mini Review: Franzininho C0](http://dqsoft.blogspot.com/2023/11/mini-review-franzininho-c0.html)
-- [Kit M8031TL da Bit9 - Parte 2 - Gravador via FTP](http://dqsoft.blogspot.com/2023/11/kit-m8031tl-da-bit9-parte-2-gravador.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
