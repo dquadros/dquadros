@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2024](http://dqsoft.blogspot.com/2023/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Dezoito anos do Blog!](http://dqsoft.blogspot.com/2023/12/dezoito-anos-do-blog.html)
 - [Mini Avaliação: WeAct Studio BluePill Plus &lpar;uma Bluepill com RISC-V&rpar;](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-weact-studio-bluepill.html)
 - [Mini Avaliação: M5 Stamp S3](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-m5-stamp-s3.html)
-- [Kit M8031TL da Bit9 - Parte 3 - Gravador via FTP Funcionando](http://dqsoft.blogspot.com/2023/11/kit-m8031tl-da-bit9-parte-3-gravador.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
