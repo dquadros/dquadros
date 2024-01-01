@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resoluções de Ano Novo - Edição 2024](http://dqsoft.blogspot.com/2024/01/resolucoes-de-ano-novo-edicao-2024.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2024](http://dqsoft.blogspot.com/2023/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Dezoito anos do Blog!](http://dqsoft.blogspot.com/2023/12/dezoito-anos-do-blog.html)
 - [Mini Avaliação: WeAct Studio BluePill Plus &lpar;uma Bluepill com RISC-V&rpar;](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-weact-studio-bluepill.html)
-- [Mini Avaliação: M5 Stamp S3](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-m5-stamp-s3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
