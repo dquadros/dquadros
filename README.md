@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 1](http://dqsoft.blogspot.com/2024/01/display-lcd-grafico-monocromatico.html)
 - [Resoluções de Ano Novo - Edição 2024](http://dqsoft.blogspot.com/2024/01/resolucoes-de-ano-novo-edicao-2024.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2024](http://dqsoft.blogspot.com/2023/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Dezoito anos do Blog!](http://dqsoft.blogspot.com/2023/12/dezoito-anos-do-blog.html)
-- [Mini Avaliação: WeAct Studio BluePill Plus &lpar;uma Bluepill com RISC-V&rpar;](http://dqsoft.blogspot.com/2023/11/mini-avaliacao-weact-studio-bluepill.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
