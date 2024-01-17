@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 2](http://dqsoft.blogspot.com/2024/01/display-lcd-grafico-monocromatico_0735179855.html)
 - [Mini Avaliação: Duas Placas de Baixo Custo com o CH32V003](http://dqsoft.blogspot.com/2024/01/mini-avaliacao-duas-placas-de-baixo.html)
 - [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 1](http://dqsoft.blogspot.com/2024/01/display-lcd-grafico-monocromatico.html)
 - [Resoluções de Ano Novo - Edição 2024](http://dqsoft.blogspot.com/2024/01/resolucoes-de-ano-novo-edicao-2024.html)
-- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2024](http://dqsoft.blogspot.com/2023/12/a-grande-lista-de-ideias-de-projetos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
