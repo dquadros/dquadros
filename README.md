@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Livro do Mês: Doom Guy: Life in First Person](http://dqsoft.blogspot.com/2024/02/livro-do-mes-doom-guy-life-in-first.html)
 - [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 3](http://dqsoft.blogspot.com/2024/02/display-lcd-grafico-monocromatico.html)
 - [Crítica: Detetive Forst &lpar;série na Netflix&rpar;](http://dqsoft.blogspot.com/2024/01/critica-detetive-forst-serie-na-netflix.html)
 - [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 2](http://dqsoft.blogspot.com/2024/01/display-lcd-grafico-monocromatico_0735179855.html)
-- [Mini Avaliação: Duas Placas de Baixo Custo com o CH32V003](http://dqsoft.blogspot.com/2024/01/mini-avaliacao-duas-placas-de-baixo.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
