@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Livro do Mês: Small Gods](http://dqsoft.blogspot.com/2024/03/livro-do-mes-small-gods.html)
 - [Novo Projeto: Microcomputador Didático com Z80](http://dqsoft.blogspot.com/2024/03/novo-projeto-microcomputador-didatico.html)
 - [Clones Chineses do Arduino Uno R4](http://dqsoft.blogspot.com/2024/03/clones-chineses-do-arduino-uno-r4.html)
 - [Livro do Mês: Doom Guy: Life in First Person](http://dqsoft.blogspot.com/2024/02/livro-do-mes-doom-guy-life-in-first.html)
-- [Display LCD Gráfico Monocromático 128x64 &lpar;LCD 12864-06D&rpar; - Parte 3](http://dqsoft.blogspot.com/2024/02/display-lcd-grafico-monocromatico.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
