@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [FabGL e a LilyGo ESP32-VGA](http://dqsoft.blogspot.com/2024/03/fabgl-e-lilygo-esp32-vga.html)
 - [Livro do Mês: Small Gods](http://dqsoft.blogspot.com/2024/03/livro-do-mes-small-gods.html)
 - [Novo Projeto: Microcomputador Didático com Z80](http://dqsoft.blogspot.com/2024/03/novo-projeto-microcomputador-didatico.html)
 - [Clones Chineses do Arduino Uno R4](http://dqsoft.blogspot.com/2024/03/clones-chineses-do-arduino-uno-r4.html)
-- [Livro do Mês: Doom Guy: Life in First Person](http://dqsoft.blogspot.com/2024/02/livro-do-mes-doom-guy-life-in-first.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
