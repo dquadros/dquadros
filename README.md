@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: 8051 Microcontrollers, 2a edição](http://dqsoft.blogspot.com/2024/03/critica-8051-microcontrollers-2a-edicao.html)
 - [FabGL e a LilyGo ESP32-VGA](http://dqsoft.blogspot.com/2024/03/fabgl-e-lilygo-esp32-vga.html)
 - [Livro do Mês: Small Gods](http://dqsoft.blogspot.com/2024/03/livro-do-mes-small-gods.html)
 - [Novo Projeto: Microcomputador Didático com Z80](http://dqsoft.blogspot.com/2024/03/novo-projeto-microcomputador-didatico.html)
-- [Clones Chineses do Arduino Uno R4](http://dqsoft.blogspot.com/2024/03/clones-chineses-do-arduino-uno-r4.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
