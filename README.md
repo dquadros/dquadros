@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Livro do Mês: Chip War](http://dqsoft.blogspot.com/2024/04/livro-do-mes-chip-war.html)
 - [XZ Utils Backdoor](http://dqsoft.blogspot.com/2024/04/xz-utils-backdoor.html)
 - [Microcomputador Z80 - Oscilador](http://dqsoft.blogspot.com/2024/04/microcomputador-z80-oscilador.html)
 - [Crítica: 8051 Microcontrollers, 2a edição](http://dqsoft.blogspot.com/2024/03/critica-8051-microcontrollers-2a-edicao.html)
-- [FabGL e a LilyGo ESP32-VGA](http://dqsoft.blogspot.com/2024/03/fabgl-e-lilygo-esp32-vga.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
