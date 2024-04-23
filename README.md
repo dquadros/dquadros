@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Corrupção da Memória pelo qsort&lpar;&rpar; da Biblioteca C  do GNU](http://dqsoft.blogspot.com/2024/04/corrupcao-da-memoria-pelo-qsort-da.html)
 - [Livro do Mês: Chip War](http://dqsoft.blogspot.com/2024/04/livro-do-mes-chip-war.html)
 - [XZ Utils Backdoor](http://dqsoft.blogspot.com/2024/04/xz-utils-backdoor.html)
 - [Microcomputador Z80 - Oscilador](http://dqsoft.blogspot.com/2024/04/microcomputador-z80-oscilador.html)
-- [Crítica: 8051 Microcontrollers, 2a edição](http://dqsoft.blogspot.com/2024/03/critica-8051-microcontrollers-2a-edicao.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
