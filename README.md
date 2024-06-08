@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comentários Adicionais sobre o Uno R4](http://dqsoft.blogspot.com/2024/06/comentarios-adicionais-sobre-o-uno-r4.html)
+- [Microcomputador Z80 - Reset](http://dqsoft.blogspot.com/2024/05/microcomputador-z80-reset.html)
 - [Corrupção da Memória pelo qsort&lpar;&rpar; da Biblioteca C  do GNU](http://dqsoft.blogspot.com/2024/04/corrupcao-da-memoria-pelo-qsort-da.html)
 - [Livro do Mês: Chip War](http://dqsoft.blogspot.com/2024/04/livro-do-mes-chip-war.html)
-- [XZ Utils Backdoor](http://dqsoft.blogspot.com/2024/04/xz-utils-backdoor.html)
-- [Microcomputador Z80 - Oscilador](http://dqsoft.blogspot.com/2024/04/microcomputador-z80-oscilador.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
