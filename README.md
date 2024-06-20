@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rodando os Exemplos de Zigbee para o ESP32-C6 na IDE Arduino com o XIAO ESP32-C6](http://dqsoft.blogspot.com/2024/06/rodando-os-exemplos-de-zigbee-para-o.html)
 - [Microcomputador Z80 - Usando um 74HC373 Como Latch/Porta de Saída](http://dqsoft.blogspot.com/2024/06/microcomputador-z80-usando-um-74hc373.html)
 - [Mini Avaliação: Xiao ESP32-C6](http://dqsoft.blogspot.com/2024/06/mini-avaliacao-xiao-esp32-c6.html)
 - [Kindle Paperwhite &lpar;11a Geração&rpar;: Primeiras Impressões](http://dqsoft.blogspot.com/2024/06/kindle-paperwhite-11a-geracao-primeiras.html)
-- [Comentários Adicionais sobre o Uno R4](http://dqsoft.blogspot.com/2024/06/comentarios-adicionais-sobre-o-uno-r4.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
