@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Usando um Display ePaper com um CH32V003](http://dqsoft.blogspot.com/2024/07/usando-um-display-epaper-com-um-ch32v003.html)
 - [Crítica: The Mystery of the Purple Pirate](http://dqsoft.blogspot.com/2024/07/critica-mystery-of-purple-pirate.html)
 - [KIt Relógio Digital &lpar;sem Microcontrolador!&rpar;](http://dqsoft.blogspot.com/2024/06/kit-relogio-digital-sem-microcontrolador.html)
 - [Projeto: Controlador WiFi de LED RGB Endereçável &lpar;WS2812B&rpar; Usando ESP32-C3](http://dqsoft.blogspot.com/2024/06/projeto-controlador-wifi-de-led-rgb.html)
-- [Rodando os Exemplos de Zigbee para o ESP32-C6 na IDE Arduino com o XIAO ESP32-C6](http://dqsoft.blogspot.com/2024/06/rodando-os-exemplos-de-zigbee-para-o.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
