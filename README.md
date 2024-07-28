@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Crise Causada pelo CrowdStrike: Perguntas e &lpar;algumas&rpar; Respostas](http://dqsoft.blogspot.com/2024/07/a-crise-causada-pelo-crowdstrike.html)
 - [Usando um Display ePaper com um CH32V003](http://dqsoft.blogspot.com/2024/07/usando-um-display-epaper-com-um-ch32v003.html)
 - [Crítica: The Mystery of the Purple Pirate](http://dqsoft.blogspot.com/2024/07/critica-mystery-of-purple-pirate.html)
 - [KIt Relógio Digital &lpar;sem Microcontrolador!&rpar;](http://dqsoft.blogspot.com/2024/06/kit-relogio-digital-sem-microcontrolador.html)
-- [Projeto: Controlador WiFi de LED RGB Endereçável &lpar;WS2812B&rpar; Usando ESP32-C3](http://dqsoft.blogspot.com/2024/06/projeto-controlador-wifi-de-led-rgb.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
