@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kit: Piano Eletrônico](http://dqsoft.blogspot.com/2024/08/kit-piano-eletronico.html)
 - [Mini Avaliação: TP2040 Pi Zero](http://dqsoft.blogspot.com/2024/07/mini-avaliacao-tp2040-pi-zero.html)
 - [A Crise Causada pelo CrowdStrike: Perguntas e &lpar;algumas&rpar; Respostas](http://dqsoft.blogspot.com/2024/07/a-crise-causada-pelo-crowdstrike.html)
 - [Usando um Display ePaper com um CH32V003](http://dqsoft.blogspot.com/2024/07/usando-um-display-epaper-com-um-ch32v003.html)
-- [Crítica: The Mystery of the Purple Pirate](http://dqsoft.blogspot.com/2024/07/critica-mystery-of-purple-pirate.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
