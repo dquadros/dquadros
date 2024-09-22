@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Arduino R4 WiFi: Bateria do Relógio de Tempo Real Finalmente Funcionando?](http://dqsoft.blogspot.com/2024/09/arduino-r4-wifi-bateria-do-relogio-de.html)
+- [Cinco Mini Placas com ESP32](http://dqsoft.blogspot.com/2024/09/cinco-mini-placas-com-esp32.html)
+- [Crítica: The Quick Red Fox](http://dqsoft.blogspot.com/2024/09/critica-quick-red-fox.html)
 - [E temos um bug no RP2350!](http://dqsoft.blogspot.com/2024/08/e-temos-um-bug-no-rp2350.html)
-- [Kit: Piano Eletrônico](http://dqsoft.blogspot.com/2024/08/kit-piano-eletronico.html)
-- [Mini Avaliação: TP2040 Pi Zero](http://dqsoft.blogspot.com/2024/07/mini-avaliacao-tp2040-pi-zero.html)
-- [A Crise Causada pelo CrowdStrike: Perguntas e &lpar;algumas&rpar; Respostas](http://dqsoft.blogspot.com/2024/07/a-crise-causada-pelo-crowdstrike.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
