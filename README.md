@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Sound Man](http://dqsoft.blogspot.com/2024/10/critica-sound-man.html)
 - [WeActStudio RA4M1 64 pin Core Board: Mini-review e como usar com a IDE Arduino](http://dqsoft.blogspot.com/2024/10/weactstudio-ra4m1-64-pin-core-board.html)
 - [Crítica: Daredevil Masterworks Vol. 8](http://dqsoft.blogspot.com/2024/10/critica-daredevil-masterworks-vol-8.html)
 - [Arduino Nano ESP32: Mini-Review e como Resolver o &quot;No capable DFU device available&quot;](http://dqsoft.blogspot.com/2024/09/arduino-nano-esp32-mini-review-e-como.html)
-- [Crítica: Intermediate Robot Building](http://dqsoft.blogspot.com/2024/09/critica-intermediate-robot-building.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
