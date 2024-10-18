@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Expansão de Memória para o Sinclair ZX81](http://dqsoft.blogspot.com/2024/10/expansao-de-memoria-para-o-sinclair-zx81.html)
 - [Maratona de Projetos 2024](http://dqsoft.blogspot.com/2024/10/maratona-de-projetos-2024.html)
 - [Crítica: Sound Man](http://dqsoft.blogspot.com/2024/10/critica-sound-man.html)
 - [WeActStudio RA4M1 64 pin Core Board: Mini-review e como usar com a IDE Arduino](http://dqsoft.blogspot.com/2024/10/weactstudio-ra4m1-64-pin-core-board.html)
-- [Crítica: Daredevil Masterworks Vol. 8](http://dqsoft.blogspot.com/2024/10/critica-daredevil-masterworks-vol-8.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
