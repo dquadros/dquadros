@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulador de K7 para o ZX81/TK82C - Parte 1](http://dqsoft.blogspot.com/2024/11/simulador-de-k7-para-o-zx81tk82c-parte-1.html)
 - [Mini-PC com ESP32](http://dqsoft.blogspot.com/2024/11/mini-pc-com-esp32.html)
 - [Resenha: Invencible &lpar;1a e 2a temporada da série, Compendium volumes 1 e 2&rpar; sem spoilers!](http://dqsoft.blogspot.com/2024/10/resenha-invencible-1a-e-2a-temporada-da.html)
 - [i2cpicousb: Um Adaptador USB para dispositivos I2C](http://dqsoft.blogspot.com/2024/10/i2cpicousb-um-adaptador-usb-para.html)
-- [Expansão de Memória para o Sinclair ZX81](http://dqsoft.blogspot.com/2024/10/expansao-de-memoria-para-o-sinclair-zx81.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
