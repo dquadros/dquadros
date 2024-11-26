@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulador de K7 para o ZX81/TK82C - Parte 2](http://dqsoft.blogspot.com/2024/11/simulador-de-k7-para-o-zx81tk82c-parte-2.html)
 - [Resenha: The Cuckoo&#39;s Egg](http://dqsoft.blogspot.com/2024/11/resenha-cuckoos-egg.html)
 - [Simulador de K7 para o ZX81/TK82C - Parte 1](http://dqsoft.blogspot.com/2024/11/simulador-de-k7-para-o-zx81tk82c-parte-1.html)
 - [Mini-PC com ESP32](http://dqsoft.blogspot.com/2024/11/mini-pc-com-esp32.html)
-- [Resenha: Invencible &lpar;1a e 2a temporada da série, Compendium volumes 1 e 2&rpar; sem spoilers!](http://dqsoft.blogspot.com/2024/10/resenha-invencible-1a-e-2a-temporada-da.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
