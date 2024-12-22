@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2025](http://dqsoft.blogspot.com/2024/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Resenha: Kenobi &lpar;o livro&rpar;](http://dqsoft.blogspot.com/2024/12/resenha-kenobi-o-livro.html)
 - [Resenha: The Last Theorem](http://dqsoft.blogspot.com/2024/12/resenha-last-theorem.html)
 - [Simulador de K7 para o ZX81/TK82C - Parte 3](http://dqsoft.blogspot.com/2024/12/simulador-de-k7-para-o-zx81tk82c-parte-3.html)
-- [Dezenove anos do Blog, mas quem está contando?](http://dqsoft.blogspot.com/2024/12/dezenove-anos-do-blog-mas-quem-esta.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
