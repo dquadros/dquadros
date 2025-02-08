@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [E-book Usando Sensores com a Raspberry Pi Pico em Oferta!](http://dqsoft.blogspot.com/2025/02/e-book-usando-sensores-com-raspberry-pi.html)
 - [Resoluções de Ano Novo - Edição 2025](http://dqsoft.blogspot.com/2025/01/resolucoes-de-ano-novo-edicao-2025.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2025](http://dqsoft.blogspot.com/2024/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Resenha: Kenobi &lpar;o livro&rpar;](http://dqsoft.blogspot.com/2024/12/resenha-kenobi-o-livro.html)
-- [Resenha: The Last Theorem](http://dqsoft.blogspot.com/2024/12/resenha-last-theorem.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
