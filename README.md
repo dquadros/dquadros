@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcontroladores CH32V002 e CH32V006](http://dqsoft.blogspot.com/2025/04/microcontroladores-ch32v002-e-ch32v006.html)
 - [Mini-Review: Placas com RP2350 da Solder Party](http://dqsoft.blogspot.com/2025/03/mini-review-placas-com-rp2350-da-solder.html)
 - [E-book Usando Sensores com a Raspberry Pi Pico em Oferta!](http://dqsoft.blogspot.com/2025/02/e-book-usando-sensores-com-raspberry-pi.html)
 - [Resoluções de Ano Novo - Edição 2025](http://dqsoft.blogspot.com/2025/01/resolucoes-de-ano-novo-edicao-2025.html)
-- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2025](http://dqsoft.blogspot.com/2024/12/a-grande-lista-de-ideias-de-projetos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
