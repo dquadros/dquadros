@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcomputador Z80 - Os Displays na Placa I/O](http://dqsoft.blogspot.com/2025/05/microcomputador-z80-os-displays-na.html)
 - [Sensor de Temperatura e Umidade Relativa SHT40](http://dqsoft.blogspot.com/2025/04/sensor-de-temperatura-e-umidade.html)
 - [Sensor de Pressão Atmosférica, Temperatura, Umidade e Qualidade do Ar BME680](http://dqsoft.blogspot.com/2025/04/sensor-de-pressao-atmosferica.html)
 - [Display LCD de 3 Dígitos](http://dqsoft.blogspot.com/2025/04/display-lcd-de-3-digitos.html)
-- [Microcontroladores CH32V002 e CH32V006](http://dqsoft.blogspot.com/2025/04/microcontroladores-ch32v002-e-ch32v006.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
