@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Andor &lpar;2a e última Temporada&rpar;](http://dqsoft.blogspot.com/2025/06/critica-andor-2a-e-ultima-temporada.html)
 - [Crítica: Star Wars: The Black Fleet Crisis Trilogy](http://dqsoft.blogspot.com/2025/06/critica-star-wars-black-fleet-crisis.html)
 - [Microcontroladores PUYA PY32F002A e PY32F003](http://dqsoft.blogspot.com/2025/05/microcontroladores-puya-py32f002a-e.html)
 - [Placa ESP32-C3 com Display OLED de 0,42&quot;](http://dqsoft.blogspot.com/2025/05/placa-esp32-c3-com-display-oled-de-042.html)
-- [Microcomputador Z80 - Os Displays na Placa I/O](http://dqsoft.blogspot.com/2025/05/microcomputador-z80-os-displays-na.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
