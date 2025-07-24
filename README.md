@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Revendo a Placa ESP32 S2 Mini](http://dqsoft.blogspot.com/2025/07/revendo-placa-esp32-s2-mini.html)
 - [PY32F003 Blues: As Dificuldades em Usar uma Placa com o Microcontrolador PY32F003](http://dqsoft.blogspot.com/2025/07/py32f003-blues.html)
 - [Crítica: Andor &lpar;2a e última Temporada&rpar;](http://dqsoft.blogspot.com/2025/06/critica-andor-2a-e-ultima-temporada.html)
 - [Crítica: Star Wars: The Black Fleet Crisis Trilogy](http://dqsoft.blogspot.com/2025/06/critica-star-wars-black-fleet-crisis.html)
-- [Microcontroladores PUYA PY32F002A e PY32F003](http://dqsoft.blogspot.com/2025/05/microcontroladores-puya-py32f002a-e.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
