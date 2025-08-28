@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Placa Super Mini nRF52840, Parte 1: O Microcontrolador e a Placa](http://dqsoft.blogspot.com/2025/08/placa-super-mini-nrf52840-parte-1-o.html)
 - [Finalmente o ESP32-C5](http://dqsoft.blogspot.com/2025/07/finalmente-o-esp32-c5.html)
 - [Revendo a Placa ESP32 S2 Mini](http://dqsoft.blogspot.com/2025/07/revendo-placa-esp32-s2-mini.html)
 - [PY32F003 Blues: As Dificuldades em Usar uma Placa com o Microcontrolador PY32F003](http://dqsoft.blogspot.com/2025/07/py32f003-blues.html)
-- [Crítica: Andor &lpar;2a e última Temporada&rpar;](http://dqsoft.blogspot.com/2025/06/critica-andor-2a-e-ultima-temporada.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
