@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unihiker K10: Primeiras Impressões](http://dqsoft.blogspot.com/2025/10/unihiker-k10-primeiras-impressoes.html)
 - [Placa Super Mini nRF52840, Parte 2:  Usando CircuitPython](http://dqsoft.blogspot.com/2025/09/placa-super-mini-nrf52840-parte-2.html)
 - [Crítica: Marvel Masterworks: The Fantastic Four, Vol. 12](http://dqsoft.blogspot.com/2025/08/critica-marvel-masterworks-fantastic.html)
 - [Placa Super Mini nRF52840, Parte 1: O Microcontrolador e a Placa](http://dqsoft.blogspot.com/2025/08/placa-super-mini-nrf52840-parte-1-o.html)
-- [Finalmente o ESP32-C5](http://dqsoft.blogspot.com/2025/07/finalmente-o-esp32-c5.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
