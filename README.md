@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2026](http://dqsoft.blogspot.com/2025/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Vinte anos do Blog](http://dqsoft.blogspot.com/2025/12/vinte-anos-do-blog.html)
 - [Crítica: Betrayal &lpar;Star Wars: Legacy of the Force #1&rpar;](http://dqsoft.blogspot.com/2025/11/critica-betrayal-star-wars-legacy-of.html)
 - [Unihiker K10: Primeiras Impressões](http://dqsoft.blogspot.com/2025/10/unihiker-k10-primeiras-impressoes.html)
-- [Placa Super Mini nRF52840, Parte 2:  Usando CircuitPython](http://dqsoft.blogspot.com/2025/09/placa-super-mini-nrf52840-parte-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
