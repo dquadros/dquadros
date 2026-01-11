@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resoluções de Ano Novo - Edição 2026](http://dqsoft.blogspot.com/2026/01/resolucoes-de-ano-novo-edicao-2026.html)
 - [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2026](http://dqsoft.blogspot.com/2025/12/a-grande-lista-de-ideias-de-projetos.html)
 - [Vinte anos do Blog](http://dqsoft.blogspot.com/2025/12/vinte-anos-do-blog.html)
 - [Crítica: Betrayal &lpar;Star Wars: Legacy of the Force #1&rpar;](http://dqsoft.blogspot.com/2025/11/critica-betrayal-star-wars-legacy-of.html)
-- [Unihiker K10: Primeiras Impressões](http://dqsoft.blogspot.com/2025/10/unihiker-k10-primeiras-impressoes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
