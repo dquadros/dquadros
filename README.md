@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Lords and Ladies &lpar;Discworld, #14&rpar;](http://dqsoft.blogspot.com/2026/01/critica-lords-and-ladies-discworld-14.html)
 - [Crítica: Os Assassinatos de Åre](http://dqsoft.blogspot.com/2026/01/critica-os-assassinatos-de-are.html)
 - [Kit Letreiro Digital IoT](http://dqsoft.blogspot.com/2026/01/kit-letreiro-digital-iot.html)
 - [Resoluções de Ano Novo - Edição 2026](http://dqsoft.blogspot.com/2026/01/resolucoes-de-ano-novo-edicao-2026.html)
-- [A Grande Lista de Ideias de Projetos &lpar;&quot;GLIP&quot;&rpar; - Revisão 2026](http://dqsoft.blogspot.com/2025/12/a-grande-lista-de-ideias-de-projetos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
