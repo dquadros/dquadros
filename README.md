@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenha: Hidden Mountain &lpar;Hardy Boys #186&rpar;](http://dqsoft.blogspot.com/2026/02/resenha-hidden-mountain-hardy-boys-186.html)
 - [Crítica: Lords and Ladies &lpar;Discworld, #14&rpar;](http://dqsoft.blogspot.com/2026/01/critica-lords-and-ladies-discworld-14.html)
 - [Crítica: Os Assassinatos de Åre](http://dqsoft.blogspot.com/2026/01/critica-os-assassinatos-de-are.html)
 - [Kit Letreiro Digital IoT](http://dqsoft.blogspot.com/2026/01/kit-letreiro-digital-iot.html)
-- [Resoluções de Ano Novo - Edição 2026](http://dqsoft.blogspot.com/2026/01/resolucoes-de-ano-novo-edicao-2026.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
