@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Primeira Olhada: XIAO nRF54L15](http://dqsoft.blogspot.com/2026/02/primeira-olhada-xiao-nrf54l15.html)
 - [Resenha: Hidden Mountain &lpar;Hardy Boys #186&rpar;](http://dqsoft.blogspot.com/2026/02/resenha-hidden-mountain-hardy-boys-186.html)
 - [Crítica: Lords and Ladies &lpar;Discworld, #14&rpar;](http://dqsoft.blogspot.com/2026/01/critica-lords-and-ladies-discworld-14.html)
 - [Crítica: Os Assassinatos de Åre](http://dqsoft.blogspot.com/2026/01/critica-os-assassinatos-de-are.html)
-- [Kit Letreiro Digital IoT](http://dqsoft.blogspot.com/2026/01/kit-letreiro-digital-iot.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
