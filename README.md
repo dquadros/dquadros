@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Microcomputador Z80 - Os Displays na Placa I/O - Parte 2](http://dqsoft.blogspot.com/2026/02/microcomputador-z80-os-displays-na.html)
 - [Crítica: Misread Signals: How History Overlooked Women Codebreakers](http://dqsoft.blogspot.com/2026/02/critica-misread-signals-how-history.html)
 - [Desafio 2026: Quatro Robôs, em Quatro Trimestres](http://dqsoft.blogspot.com/2026/02/desafio-2026-quatro-robos-em-quatro.html)
 - [Crítica: &quot;A Grande Ilusão&quot; &lpar;série da Netfilx&rpar;](http://dqsoft.blogspot.com/2026/02/critica-grande-ilusao-serie-da-netfilx.html)
-- [Primeira Olhada: XIAO nRF54L15](http://dqsoft.blogspot.com/2026/02/primeira-olhada-xiao-nrf54l15.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
