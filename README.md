@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Thor Masterworks Vol 9](http://dqsoft.blogspot.com/2026/03/critica-thor-masterworks-vol-9.html)
 - [Crítica: Superman - Camelot Falls](http://dqsoft.blogspot.com/2026/02/critica-superman-camelot-falls.html)
 - [Microcomputador Z80 - Os Displays na Placa I/O - Parte 2](http://dqsoft.blogspot.com/2026/02/microcomputador-z80-os-displays-na.html)
 - [Crítica: Misread Signals: How History Overlooked Women Codebreakers](http://dqsoft.blogspot.com/2026/02/critica-misread-signals-how-history.html)
-- [Desafio 2026: Quatro Robôs, em Quatro Trimestres](http://dqsoft.blogspot.com/2026/02/desafio-2026-quatro-robos-em-quatro.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
