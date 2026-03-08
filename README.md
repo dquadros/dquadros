@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: JavaScript The Definitive Guide e Understanding ECMAScript 6](http://dqsoft.blogspot.com/2026/03/critica-javascript-definitive-guide-e.html)
 - [Mini-Review: RP2350B-Plus-W da WaveShare](http://dqsoft.blogspot.com/2026/03/mini-review-rp2350b-plus-w-da-waveshare.html)
 - [Crítica: Thor Masterworks Vol 9](http://dqsoft.blogspot.com/2026/03/critica-thor-masterworks-vol-9.html)
 - [Crítica: Superman - Camelot Falls](http://dqsoft.blogspot.com/2026/02/critica-superman-camelot-falls.html)
-- [Microcomputador Z80 - Os Displays na Placa I/O - Parte 2](http://dqsoft.blogspot.com/2026/02/microcomputador-z80-os-displays-na.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
