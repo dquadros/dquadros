@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desafio 2026: Mini Robô](http://dqsoft.blogspot.com/2026/04/desafio-2026-mini-robo.html)
 - [Crítica: Artemis](http://dqsoft.blogspot.com/2026/03/critica-artemis.html)
 - [Crítica: JavaScript The Definitive Guide e Understanding ECMAScript 6](http://dqsoft.blogspot.com/2026/03/critica-javascript-definitive-guide-e.html)
 - [Mini-Review: RP2350B-Plus-W da WaveShare](http://dqsoft.blogspot.com/2026/03/mini-review-rp2350b-plus-w-da-waveshare.html)
-- [Crítica: Thor Masterworks Vol 9](http://dqsoft.blogspot.com/2026/03/critica-thor-masterworks-vol-9.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
