@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Justified &lpar;série disponível no Disney+, como parte do Hulu&rpar;](http://dqsoft.blogspot.com/2026/04/critica-justified-serie-disponivel-no.html)
 - [Sakura Journey](http://dqsoft.blogspot.com/2026/04/sakura-journey.html)
 - [Desafio 2026: Mini Robô](http://dqsoft.blogspot.com/2026/04/desafio-2026-mini-robo.html)
 - [Crítica: Artemis](http://dqsoft.blogspot.com/2026/03/critica-artemis.html)
-- [Crítica: JavaScript The Definitive Guide e Understanding ECMAScript 6](http://dqsoft.blogspot.com/2026/03/critica-javascript-definitive-guide-e.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
