@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Shatterpoint](http://dqsoft.blogspot.com/2026/05/critica-shatterpoint.html)
 - [Kit para soldar: Relógio com LEDs](http://dqsoft.blogspot.com/2026/05/kit-para-soldar-relogio-com-leds.html)
 - [MC6850Tester: Usando uma Raspberry Pi Pico para testar uma MC6850 ACIA](http://dqsoft.blogspot.com/2026/05/mc6850tester-usando-uma-raspberry-pi.html)
 - [O Custo Escondido da IA: Chrome instala silenciosamente um arquivo de 4G na sua máquina](http://dqsoft.blogspot.com/2026/05/o-custo-escondido-da-ia-chrome-instala.html)
-- [Mini Review: Waveshare STM32H7 Core Board &lpar;modelo STM32H750VBT6-OV2640  também conhecida como Mini STM32H750&rpar;](http://dqsoft.blogspot.com/2026/05/mini-review-waveshare-stm32h7-core.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
