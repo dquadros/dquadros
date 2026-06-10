@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desafio 2026: O ComportaBot - Planejamento](http://dqsoft.blogspot.com/2026/06/desafio-2026-o-comportabot-planejamento.html)
 - [Um Bug Curioso em um Código JavaScript](http://dqsoft.blogspot.com/2026/06/um-bug-curioso-em-um-codigo-javascript.html)
 - [Crítica: Shatterpoint](http://dqsoft.blogspot.com/2026/05/critica-shatterpoint.html)
 - [Kit para soldar: Relógio com LEDs](http://dqsoft.blogspot.com/2026/05/kit-para-soldar-relogio-com-leds.html)
-- [MC6850Tester: Usando uma Raspberry Pi Pico para testar uma MC6850 ACIA](http://dqsoft.blogspot.com/2026/05/mc6850tester-usando-uma-raspberry-pi.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
