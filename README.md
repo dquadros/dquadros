@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: The Complete Making of Indiana Jones](http://dqsoft.blogspot.com/2026/07/critica-complete-making-of-indiana-jones.html)
 - [O Controlador do Display OLED de 1.3 polegadas](http://dqsoft.blogspot.com/2026/06/o-controlador-do-display-oled-de-13.html)
 - [O Caso da Placa de Wi-Fi Defeituosa](http://dqsoft.blogspot.com/2026/06/o-caso-da-placa-de-wi-fi-defeituosa.html)
 - [Desafio 2026: O ComportaBot - Planejamento](http://dqsoft.blogspot.com/2026/06/desafio-2026-o-comportabot-planejamento.html)
-- [Um Bug Curioso em um Código JavaScript](http://dqsoft.blogspot.com/2026/06/um-bug-curioso-em-um-codigo-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
