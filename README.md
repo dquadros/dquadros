@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Módulo Display de 14 Segmentos com Interface I2C](http://dqsoft.blogspot.com/2026/07/modulo-display-de-14-segmentos-com.html)
 - [Revisão do Primeiro Semestre](http://dqsoft.blogspot.com/2026/07/revisao-do-primeiro-semestre.html)
 - [Crítica: The Complete Making of Indiana Jones](http://dqsoft.blogspot.com/2026/07/critica-complete-making-of-indiana-jones.html)
 - [O Controlador do Display OLED de 1.3 polegadas](http://dqsoft.blogspot.com/2026/06/o-controlador-do-display-oled-de-13.html)
-- [O Caso da Placa de Wi-Fi Defeituosa](http://dqsoft.blogspot.com/2026/06/o-caso-da-placa-de-wi-fi-defeituosa.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
