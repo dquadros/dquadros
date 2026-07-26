@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resenhas: Strawberry Shortcake Murder e Blueberry Muffin Murder](http://dqsoft.blogspot.com/2026/07/resenhas-strawberry-shortcake-murder-e.html)
 - [Crítica: Project Hail Mary &lpar;&quot;Devoradores de Estrelas&quot;&rpar; - O Filme](http://dqsoft.blogspot.com/2026/07/critica-project-hail-mary-devoradores.html)
 - [Módulo Display de 14 Segmentos com Interface I2C](http://dqsoft.blogspot.com/2026/07/modulo-display-de-14-segmentos-com.html)
 - [Revisão do Primeiro Semestre](http://dqsoft.blogspot.com/2026/07/revisao-do-primeiro-semestre.html)
-- [Crítica: The Complete Making of Indiana Jones](http://dqsoft.blogspot.com/2026/07/critica-complete-making-of-indiana-jones.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
