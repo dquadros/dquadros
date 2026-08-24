@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Placa ESP32-S3 Supermini](http://dqsoft.blogspot.com/2026/08/placa-esp32-s3-supermini.html)
 - [Termômetro &quot;Monte Verde&quot; com ESP32-C6, sensor HDC1080 e LEDs RGB](http://dqsoft.blogspot.com/2026/08/termometro-monte-verde-com-esp32-c6.html)
 - [Kit para Soldar: Jogo Tipo Tetris &lpar;e outros&rpar;](http://dqsoft.blogspot.com/2026/07/kit-para-soldar-jogo-tipo-tetris-e.html)
 - [Resenhas: Strawberry Shortcake Murder e Blueberry Muffin Murder](http://dqsoft.blogspot.com/2026/07/resenhas-strawberry-shortcake-murder-e.html)
-- [Crítica: Project Hail Mary &lpar;&quot;Devoradores de Estrelas&quot;&rpar; - O Filme](http://dqsoft.blogspot.com/2026/07/critica-project-hail-mary-devoradores.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
