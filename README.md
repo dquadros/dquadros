@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Batman &amp; Superman in World&#39;s Finest: The Silver Age Vol. 2](http://dqsoft.blogspot.com/2026/09/critica-batman-superman-in-worlds.html)
 - [Crítica: The Expanse &lpar;série disponível no Prime Video&rpar;](http://dqsoft.blogspot.com/2026/09/critica-expanse-serie-disponivel-no.html)
 - [Maratona de Projetos 2026](http://dqsoft.blogspot.com/2026/09/maratona-de-projetos-2026.html)
 - [Crítica: The New China Playbook &lpar;A Nova China na edição brasileira&rpar;](http://dqsoft.blogspot.com/2026/08/critica-new-china-playbook-nova-china.html)
-- [Placa ESP32-S3 Supermini](http://dqsoft.blogspot.com/2026/08/placa-esp32-s3-supermini.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
