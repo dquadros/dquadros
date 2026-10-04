@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Marvel Masterworks: The Fantastic Four, Vol. 13](http://dqsoft.blogspot.com/2026/10/critica-marvel-masterworks-fantastic.html)
 - [Burned-out](http://dqsoft.blogspot.com/2026/09/burned-out.html)
 - [Maratona de Projetos 2026 - Andamento](http://dqsoft.blogspot.com/2026/09/maratona-de-projetos-2026-andamento.html)
 - [Crítica: Batman &amp; Superman in World&#39;s Finest: The Silver Age Vol. 2](http://dqsoft.blogspot.com/2026/09/critica-batman-superman-in-worlds.html)
-- [Crítica: The Expanse &lpar;série disponível no Prime Video&rpar;](http://dqsoft.blogspot.com/2026/09/critica-expanse-serie-disponivel-no.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
