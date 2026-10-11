@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Crítica: Darker Than Amber](http://dqsoft.blogspot.com/2026/10/critica-darker-than-amber.html)
 - [Maratona de Projetos 2026: Piano com CH32V002](http://dqsoft.blogspot.com/2026/10/maratona-de-projetos-2026-piano-com.html)
 - [Crítica: Marvel Masterworks: The Fantastic Four, Vol. 13](http://dqsoft.blogspot.com/2026/10/critica-marvel-masterworks-fantastic.html)
 - [Burned-out](http://dqsoft.blogspot.com/2026/09/burned-out.html)
-- [Maratona de Projetos 2026 - Andamento](http://dqsoft.blogspot.com/2026/09/maratona-de-projetos-2026-andamento.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
