@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O Caso da Placa de Wi-Fi Defeituosa Temporada 2: O Mistério do Bluetooth](http://dqsoft.blogspot.com/2026/10/o-caso-da-placa-de-wi-fi-defeituosa.html)
 - [Crítica: Darker Than Amber](http://dqsoft.blogspot.com/2026/10/critica-darker-than-amber.html)
 - [Maratona de Projetos 2026: Piano com CH32V002](http://dqsoft.blogspot.com/2026/10/maratona-de-projetos-2026-piano-com.html)
 - [Crítica: Marvel Masterworks: The Fantastic Four, Vol. 13](http://dqsoft.blogspot.com/2026/10/critica-marvel-masterworks-fantastic.html)
-- [Burned-out](http://dqsoft.blogspot.com/2026/09/burned-out.html)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
